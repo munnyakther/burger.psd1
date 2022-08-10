@@ -1,0 +1,109 @@
+@media(max-width:576px) {
+    .phone{
+        display: none;
+    }
+    .mobile-part{
+        display: block !important;
+        margin: auto;
+        margin-bottom: -176px;
+        width: 100%;
+    }
+    
+    .number h2{
+        font-size: 14px !important;
+    width: 40%;
+    margin-left: 149px !important;
+
+    }
+    .bike img{
+        margin-left: 149px;
+    }
+    
+    .toggler-icon {
+        color: #fff;
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        display: initial;
+    }
+
+    .nav-item {
+        margin-bottom: 12px;
+    }
+    
+    .banner-data h2{
+    
+        font-size: 14px !important;
+         margin-left: 22px;
+         margin-bottom: -2px;
+        margin-top: 43px;
+    }
+    .banner-data h1{
+        font-size: 57px !important;
+    margin-bottom: 10px;
+    margin-left: 56px;
+    top: 30px;
+    }
+    .price h3{
+        font-size: 23px !important;
+    }
+    .price h3 span{
+        font-size: 13px !important;
+    }
+    .price h5{
+        font-size: 20px !important;
+    }
+    .price{
+        height: 79px !important;
+        width: 89px  !important;
+
+    }
+    .pricing{
+        height: 96px !important;
+    width: 102px !important;
+    }
+    .banner-food{
+        bottom: 164px !important;
+    left: -7px;
+    }
+    .title-bar h5{
+        margin-top: 47px;
+        font-size: 16px !important;
+    }
+    .title-bar h3{
+        font-size: 22px !important;
+    }
+    .title-bar h2{
+        font-size: 22px !important;
+    }
+    .title-bar2 h5{
+        margin-top: 43px;
+    font-size: 16px !important;
+    }
+    .title-bar2 h2{
+        font-size: 22px !important;
+    }
+    .bar-1 h2{
+        font-size: 22px !important;
+    }
+    .order a{
+        margin-bottom: 37px;
+    }
+    .logo{
+        width: 31% !important;
+        position: absolute;
+    }
+    .footer-bar p{
+        margin-top: 54px;
+    }
+   
+}
